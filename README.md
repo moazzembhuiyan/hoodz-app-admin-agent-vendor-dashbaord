@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=180&section=header&text=HOODZ%20Dashboard&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Admin%20%C2%B7%20Vendor%20%C2%B7%20Agent&descAlignY=58&descSize=16" alt="HOODZ Dashboard" />
+<img src=".github/banner.svg" width="100%" alt="HOODZ Dashboard — Admin · Vendor · Agent" />
 
 <p><b>📊 Multi-role Admin Dashboard</b></p>
 
